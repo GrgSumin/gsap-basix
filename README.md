@@ -17,3 +17,7 @@ Or you can download the latest version from the [GSAP website](https://greensock
 ```
 
 ```
+
+Make sure to install Tailwind CSS with vite in this app by following the official documentation.
+
+For more details, refer to the [Tailwind CSS Installation Guide](https://tailwindcss.com/docs/installation).
